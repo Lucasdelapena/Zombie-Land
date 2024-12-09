@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas-2020\\Zombie Land\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|c:\\users\\lucas-2020\\zombie land\\assets\\scripts\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|C:\\Users\\Lucas-2020\\Zombie Land\\assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|C:\\Users\\Lucas-2020\\Zombie Land\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|C:\\Users\\Lucas-2020\\Zombie Land\\assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|C:\\Users\\Lucas-2020\\Zombie Land\\assets\\scripts\\zombiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|C:\\Users\\Lucas-2020\\Zombie Land\\assets\\scripts\\weaponpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\BulletController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletController.cs",
+              "ToolTip": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\BulletController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:42:34.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZombieSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\ZombieSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieSpawner.cs",
+              "ToolTip": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\ZombieSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:34:48.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "zombieController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\zombieController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\zombieController.cs",
+              "ToolTip": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\zombieController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\zombieController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:25:16.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:35:56.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:36:11.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponPurchase.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\WeaponPurchase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponPurchase.cs",
+              "ToolTip": "C:\\Users\\Lucas-2020\\Zombie Land\\Assets\\Scripts\\WeaponPurchase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponPurchase.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:33:37.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
